@@ -2,13 +2,9 @@
 
 ![PyPI](https://img.shields.io/pypi/v/hclib.svg)
 
-This is a wrapper to connect to [hack.chat](https://github.com/hack-chat/main) instances.
+**Note: This project has been deprecated due to the inactivity on the development of hack.chat.**
 
-**Note**: This project has been deprecated for the following reasons:
-1. The hack.chat API is not machine-friendly. There was no documentation or standard way of accessing it. This library was created by reading source code, not documnetation, and data is processed using hardcoded string lengths, etc.
-1. The new hack.chat API is 100% backwards-compatible, so this library will still work just as good as it used to. 
-1. [hack.chat](https://github.com/AndrewBelt/hack.chat) was stopped being developer by the original author and the [new repository](https://github.com/hack-chat/main) is neither seriously nor actively developed.  
-1. As beautiful as the idea of hack.chat was, nobody uses it.
+This is a wrapper to connect to [hack.chat](https://github.com/hack-chat/main) instances.
 
 # Documentation
 

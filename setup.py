@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="hclib",
-    version="1.0.3",
+    version="1.0.4",
     description="A library to connect to https://hack.chat/",
     long_description=open("./README.md").read(),
     long_description_content_type="text/markdown",
